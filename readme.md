@@ -1,5 +1,8 @@
 20170412
 
+The zip is bigger than Github likes, so you can download the ISO image here:
+[Download ISO image for compilation](https://harmlesslion.com/zips/Compilation_Full.zip)
+
 Just a compilation of my Playstation one demos:
 
 Captain Communism - unfinished game demo, no enemies
