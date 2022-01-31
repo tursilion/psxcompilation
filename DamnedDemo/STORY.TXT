@@ -1,0 +1,52 @@
+"                 So, heres a new Tursi Demo for you all to Boo at!
+ :)
+ Here we see a nice typical Canadian snowstorm. Roaring snow brought to
+ you from sunny Virginia. Imma displaced Canajan, what can I say, eh?
+ Isnt it fun?
+  NEWay, this demo came to be after daily messages from Rocko, who wanted
+ a demo for his WPW group. At first, I was blown away flattered, but, as
+ time went on, it proved to be a bit of a pain in the ass.
+[4 Sooooo.... [8 I got to work. I havent got anything now for about a month, 
+ so I put this together over the last week. The idea in my head 
+ was to try out some retro effects.
+ Rocko doesnt like it, but I say too bad. hehehe...
+[5 So, here we have a nice scrolltext, lightning, color cycling, 3d snow
+ field, demo ballz, [3 and then one more little effect.. oh yeah, its
+ your classic fire. Fire! Fire! HEH HEH HEH HEH. Oh joy.
+ The MOD playing is the title theme from Anarchy, an old game.
+ The Tursi logo is a drawing by Foxxfire
+ done for me for one of the conventions I went to. Its coooool. Yay!
+ The WPW logo is from WPW, of course.
+ Im not big on the PSX anymore.. I sorta got my
+ console kicks already. Still, this was fun, if freaking annoying many times.
+ Im still not happy with some effects, or the speed of the machine.
+[6 But, its still cool. [7 Id like to understand how to translate a point
+ with the GTE, though. The starfield is using lookup tables and rotation
+ math in the CPU. [4 Actually, [8 the balls use a nice inverse tangent lookup
+ table, too. I never did anything with TAN before. Yay, trig! Couple of
+ greets to Rocko for bugging me about this and then not liking it anyway,
+ Loser cause hes cool and doing great work with his page and utils. Van
+ Helsing if hes still about for the BIN2INC tool Im still using. [5 DDB, Napalm
+ and Hitmen for making it possible for me to subject you to this. [3 Heheh.
+ Visit my page! Cause I said so.
+ And now, maybe Rocko wants to say some things...
+
+ heyas folkz .. wpw ..THA LEADING FORCE..is back !
+ with a cool demo on PSX .. done by Tursi for Rocko (dec.99) of World Piracy Webring
+[6.. visit us @ http://world-piracy-webring.com  or tell us some stuff 
+[8 w-p-w@gmx.net   ... GREETZ FLYZ TO:
+
+ OUR PARTNERZ @ B.A.D -(http://BAD-HQ.com)-
+ KALISTO -- STATIC -- T and P -- LAXITY -- PARADOX
+ TRSI -- MATALLICA -- SMA -- TPC -- TDT/SKIDrow -- USA/FAIRLIGHT 
+ TSB -- XEROX -- MEA CULPA -- STATIC -- HITMEN -- 3AM -- NAPALM 
+ UCF -- CORE -- BACKLASH -- PHROZEN CREW -- UCT -- EVC 
+ LOSER -- CPDC/HK-Silver -- CLASS -- MANiFEST -- DEViANCE
+ all from the DEJA VU party
+ : PSXdev SCENE :  
+ -- COSMO CONNOR -- EIGHTBALLDIGITAL -- CONTROLLER -- GUIDO --
+ -- WORLDCHARTZ -- MARKUS -- PIRACY NETWORK -- 
+ and ALL OTHERS WHO SUPPORT US
+ ..THA PIRACY NETWORK  
+[5 .... and that was Rocko... Scrolltext ends and loops, cyas!
+[7                *"

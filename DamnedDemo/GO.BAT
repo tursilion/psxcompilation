@@ -1,0 +1,1 @@
+psexe damndemo.exe

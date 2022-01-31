@@ -1,0 +1,13 @@
+"
+                                                                         Welcome to
+the sand demo! Another unexpected POC from Tursi! I only wanted to throw together a few effects and play with particles. My conclusion? The PSX is too slow to do what I want. yeah, yeah, I hear you ASM coders screaming. Relax. Heh.
+So anyway, This demo bounces a thousand two-pixel lines around at plus or minus sixty fps. The pictures are varied stuff from my hard drive - see how many you recognize. Mostly old stuff. Hey, Im an old-timer. heh.
+Im not doing any more PSX stuff... I didnt expect to do this one. Maybe a little bit once in a while - mostly Im disappointed because the PSXDEV list is so damn quiet.
+You people all go get lives or what? Oh yes, font is the one from my Tetrademo, which was a font off an old Amiga CD I have. The mod is DSS-Demo, from the Digital Sound Studio on the Amiga - I actually bought that package!
+GFX from all over - and they might be hard to make out if you dont know them, so sorry!
+The graphics format kept changing on me, as did the demo... put this together over four evenings.
+Anyway, greets to hmm.. lessee.. a few people wrote back after I released CrapDemo, but its been so long now. Heh.. well Van Helsing gets one, Cat! if hes still around, Loser - did you do anything with those srcs?
+... and... Silpheed for his MOD player... err...oh hell, you guys never greet me. !GRIN!
+I better greet the people I actually KNOW, eh? Hihi to Foxxfire, Rimplestiltstalker, Binky, Flipper, Vombatus, Vidi, ah, thats enough.
+Tursi signing off... see www.neteng.bc.ca/~tursi in lowercase for non-PSX stuff... we wrap...
+*"

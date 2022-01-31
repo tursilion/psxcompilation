@@ -1,0 +1,296 @@
+VabHdr
+	form = 'VABp'
+	ver = 0x7
+	id = 0
+        fsize = 0
+        ps = 12
+        ts = 12
+        vs = 12
+
+ProgAtr 0
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 1
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 2
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 3
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 4
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 5
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 6
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 7
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 8
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 9
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 10
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+ProgAtr 11
+        tones = 1
+        mvol = 127
+	mpan = 64
+
+VagAtr 0 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+	prog = 0
+        vag = 0
+
+VagAtr 1 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 1
+        vag = 1
+
+VagAtr 2 0
+	prior = 0
+	mode = 4
+	vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 2
+        vag = 2
+
+VagAtr 3 0
+	prior = 0
+	mode = 4
+	vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+	max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 3
+        vag = 3
+
+VagAtr 4 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 4
+        vag = 4
+
+VagAtr 5 0
+	prior = 0
+	mode = 4
+	vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 5
+        vag = 5
+
+VagAtr 6 0
+	prior = 0
+	mode = 4
+	vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+	max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 6
+        vag = 6
+
+VagAtr 7 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 7
+        vag = 7
+
+VagAtr 8 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 8
+        vag = 8
+
+VagAtr 9 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+        min = 0
+	max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 9
+        vag = 9
+
+VagAtr 10 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 10
+        vag = 10
+
+VagAtr 11 0
+	prior = 0
+	mode = 4
+        vol = 127
+	pan = 64
+        center = 64
+        shift = 0
+	min = 0
+        max = 127
+	pbmin = 0
+	pbmax = 0
+	ar = 127
+        dr = 0
+        sr = 30
+        rr = 0
+        sl = 127
+        prog = 11
+        vag = 11

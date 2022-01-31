@@ -1,0 +1,151 @@
+This is a prelease of Captain Communism for the Playstation.
+
+This game is in the style of the old MegaMan. Currently, you can move
+around, but you can't do a lot.
+
+This release is for Caetla ONLY. Extract all the files into one directory and then
+run "psexe cap.psx".... leave the server up to access files.
+
+It's intended for NTSC.
+
+Note that it expects audio tracks, but I don't expect you to burn a CD at this stage. ;)
+For the final release, I'll probably include the MODs I used. ;)
+
+Here's what you will see:
+
+The intro sequence is complete.
+
+The title page comes up. Left and right will change the option. X or START selects.
+
+The only options that work are "Options" and "Start Game".
+
+Options lets you change the keys used for jump, fire and dash. You can also adjust the
+audio volumes. Select EXIT to get out.
+
+When you START GAME, you'll see the Cap on a backdrop. Left and Right to move left and
+right. 'Jump' button to jump, 'Dash' button to make him dash, 'Fire' button to make him fire the current weapon. The basic weapon can be charged up by holding fire. You can change weapon by pressing R1. HOLD select, and press start to advance through the different levels. If you JUST press start, the demo resets.
+
+That's it. The levels repeat. Some levels scroll, some don't. Two backgrounds are missing
+and so for those two levels the same church windows backdrop stays up.
+
+Also, the final level backdrop is missing, so if you scroll into it you just get garbled
+graphics. Not a bug, it won't crash. :)
+
+Graphics except backgrounds by Foxxfire. Coding and backgrounds by Tursi.
+http://neteng.bc.ca/~tursi
+
+---
+Feb 15 99
+-added first level map, ability to follow map (ladders, ramps, falling...)
+-something is messed in the sound file...
+
+---
+Mar 28 99
+-fixed sound file (still needs lots of samples)
+-added weapons (incomplete)
+-added colors
+-made weapons hit at walls
+-added dash slide thingy
+
+---
+Mar 29 99
+-oops. :) Forgot to include the folders in the last distribution. If you downloaded it,
+the directory structure needs to look like it does below - either redownload, or organize
+the files yourself, and it will run. ;) There are a couple of extra files you can delete
+(backups).
+
+Directory of C:\WORK\psx\mikes\captainc\cd
+
+SYSTEM   CNF            64  03-04-99  8:01p SYSTEM.CNF
+START    BAT            15  03-06-99  7:09p start.bat
+PATIENCE TIM       122,900  03-05-99  5:49p PATIENCE.TIM
+CAP      EXE       124,928  03-20-99  7:04p CAP.EXE
+
+         5 file(s)        247,907 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level1
+
+CITYTILE TIM         1,568  12-12-98  4:21p CITYTILE.TIM
+CITYBACK TIM        77,344  12-12-98  8:26p CITYBACK.TIM
+LEVEL1   DAT         8,192  01-20-99  7:30p LEVEL1.DAT
+LEVEL1   TIL            65  02-05-99  6:16p level1.til
+         4 file(s)         87,169 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level10
+
+GALAXY   TIM        16,928  12-07-98  5:11p GALAXY.TIM
+WAR_MA_1 TIM        82,464  01-02-99 11:35p War_ma_1.tim
+         2 file(s)         99,392 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level11
+
+         0 file(s)              0 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level2
+
+DESERT_1 TIM       262,688  11-22-98  1:37p Desert_1.tim
+DES_TILE TIM        66,080  03-03-99  5:53p DES_TILE.TIM
+LEVEL2   DAT         8,192  02-13-99 11:22p level2.dat
+LEVEL2   TIL            65  02-13-99 10:44p level2.til
+         4 file(s)        337,025 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level3
+
+WINTER_1 TIM       262,688  11-22-98  1:39p Winter_1.tim
+         1 file(s)        262,688 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level4
+
+FOREST_1 TIM       262,688  12-12-98  7:08p Forest_1.tim
+         1 file(s)        262,688 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level5
+
+HELL_B_1 TIM       262,688  11-22-98  1:38p Hell_b_1.tim
+         1 file(s)        262,688 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level6
+
+TRIB_B_1 TIM       262,688  12-19-98  6:25p Trib_b_1.tim
+         1 file(s)        262,688 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level7
+
+         0 file(s)              0 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level8
+
+         0 file(s)              0 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Level9
+
+COMPUT_1 TIM        77,344  11-22-98  1:37p Comput_1.tim
+         1 file(s)         77,344 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Misc
+
+CAP_BACK TIM        39,456  11-22-98  5:55p CAP_BACK.TIM
+CAPTAINC VB        120,608  03-07-99 10:27p CAPTAINC.VB
+CAPTAINC S          78,976  03-07-99 10:27p CAPTAINC.S
+CC_TITLE TIM       153,620  12-28-98  3:40p CC_TITLE.TIM
+CASTLE   TIM        82,208  11-22-98  5:54p CASTLE.TIM
+COMIC__1 TIM        32,704  12-12-98  4:31p Comic__1.tim
+INTRO__2 TIM        61,984  12-12-98  8:53p Intro__2.tim
+INTRO__1 TIM        61,984  12-12-98  8:55p Intro__1.tim
+INTRO__3 TIM        61,984  12-12-98  8:53p Intro__3.tim
+CAPTAINC VH         11,808  03-07-99 10:27p CAPTAINC.VH
+        13 file(s)        905,604 bytes
+
+Directory of C:\WORK\psx\mikes\captainc\cd\Sprites
+
+CAP_AIR  TIM           546  03-04-99  6:15p CAP_AIR.TIM
+CAP_HOLY TIM           546  03-04-99  6:18p CAP_HOLY.TIM
+CAP_FIRE TIM           546  03-04-99  6:17p CAP_FIRE.TIM
+CAP_GL_1 TIM           546  03-04-99  6:18p CAP_GL_1.TIM
+CAP_GL_2 TIM           546  03-04-99  6:18p CAP_GL_2.TIM
+CAP_EA_1 TIM           546  03-04-99  6:17p CAP_EA_1.TIM
+CAP_ICE  TIM           546  03-04-99  6:18p CAP_ICE.TIM
+CAP_SP_1 TIM        66,080  03-07-99  5:53p Cap_sp_1.tim
+MISC_S_1 TIM        66,080  03-07-99  5:53p Misc_s_1.tim
+         9 file(s)        135,982 bytes
+

@@ -1,0 +1,2 @@
+cap.exe: cap.c cap.h
+	gcc -O3 cap.c pad.c -ocap.exe

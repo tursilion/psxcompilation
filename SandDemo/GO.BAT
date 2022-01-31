@@ -1,0 +1,2 @@
+psymake
+psexe sand.exe

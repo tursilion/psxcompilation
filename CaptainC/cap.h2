@@ -1,0 +1,98 @@
+#define FILE int
+#define PACKETMAX               (10000)
+#define PACKETMAX2      (PACKETMAX*24)
+#define OT_LENGTH               (3)      
+GsOT            WorldOrderingTable[2];
+GsOT_TAG        zSortTable[2][1<<OT_LENGTH];   
+PACKET  GpuOutputPacket[2][PACKETMAX2];
+
+#define LOADBUFFER 0x80080000
+
+#define LEVEL_SIZE 8320
+
+#define SCREEN_WIDTH      320
+#define SCREEN_HEIGHT     240      
+#define SCREEN_X_OFFSET     0
+#define SCREEN_Y_OFFSET     0
+
+#define blue(x)   (x<<10)
+#define green(x)  (x)
+#define red(x)    (x<<5)
+#define TRANS     (0x8000)
+
+#define C_RED   0x1
+#define C_BLUE  0x2
+#define C_GREEN 0x4
+#define C_MAGENTA 0x3
+#define C_CYAN  0x6
+#define C_YELLOW 0x5
+#define C_WHITE 0x7
+
+int SINE[20]={0,1,2,2,1,0,-1,-2,-2,-1,0,1,2,2,1,0,-1,-2,-2,-1};
+char menu[5][15]={"  Start Game  ",
+                  "   Options    ",
+                  "  Load Game   ",
+                  "  Menu Filler ",
+                  ""
+                 };
+
+#define BGTILESIZE 32
+#define BGNUMTILES 512
+GsSPRITE BG[BGNUMTILES];
+GsSPRITE FG[BGNUMTILES];
+
+u_long PadStatus;
+
+int buff, frame, CD_ID, current_tune;
+int BGScroll,BGON,HELLON,FPSON,GAME_TYPE;
+int KEY_JUMP,KEY_FIRE,KEY_SLIDE,FRAME,MAXSCROLL;
+int MUSIC_VOL,EFFECT_VOL;
+RECT myrect;
+short VAB_ID;
+
+char LEVEL[64][130];
+
+char VH[15000];
+
+int GALAXYON;
+GsSPRITE Galaxy;
+
+char Text_String[80];
+int Text_X, Text_Y;
+
+int Button[4]={ PADRup,PADRleft,PADRdown,PADRright };
+
+GsLINE Stars[20];
+
+#define SPRITEMAX 100
+GsSPRITE Sprites[SPRITEMAX];           
+int Spritepri[SPRITEMAX];
+struct 
+{ int w,h,tx,ty,ox,oy,cx,cy; } sprite_dat[SPRITEMAX];
+
+short VAB_ID;
+
+/* low-level pad buffers: never need to touch */
+volatile u_char *bb0, *bb1;
+
+int cd_tracks[12][2]={2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0};
+
+void setup(void);
+void initSprite(int,int,int,int);
+void PlayCD(int);
+void main(void);
+void drawscreen(void);
+void LoadFile(char *);
+void initTexture(void);
+void castle_view(void);
+void clear_sprites(void);
+void scroll_run(void);
+void run_intro(void);
+int SlowText(char*);
+void do_title(void);
+void do_options(void);
+void text_row(char *,int,int,int,int);
+void set_pattern(int,int);
+void set_flip(int,int);
+void start_level(int);
+void play_sample(int);

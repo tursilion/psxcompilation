@@ -1,0 +1,2 @@
+tetris: tetris.c scr_psx.c starslib.c starslib.h
+	gcc -O3 tetris.c starslib.c -otetris.exe

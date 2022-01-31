@@ -1,0 +1,7 @@
+A quick note - you'll need Silpheed's mod player, PsyQ, and the data files from the full
+demo to make any use of this source, except maybe as a reference to sloppy coding.
+
+Hey, it was rushed, I was supposed to be sleeping for work. ;)
+
+								-Tursi
+								tursi@neteng.bc.ca

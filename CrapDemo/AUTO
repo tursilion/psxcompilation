@@ -1,0 +1,6 @@
+local dload 1.dat 0x80100000
+local dload 2.dat 0x80125000
+local dload 3.dat 0x80140000
+local dload 4.dat 80165000
+local load play.exe
+
